@@ -1,0 +1,214 @@
+{
+  "OinCreGel": [
+    {
+      "id": "ocg01",
+      "name": "Aciclovir Cream BP",
+      "comp": "Each gram Contains: Aciclovir BP - 50mg, Cream base - q.s",
+      "size": "15gm, 20gm",
+      "category": "Antiviral"
+    },
+    {
+      "id": "ocg02",
+      "name": "Hydrocortisone Acetate Ointment USP",
+      "comp": "Each gm contains: Hydrocortisone Acetate USP - 1% w/w, Ointment Base - q.s.",
+      "size": "15gm, 20gm",
+      "category": "Corticosteroid"
+    },
+    {
+      "id": "ocg03",
+      "name": "Menthol and Methyl Salicylate Ointment",
+      "comp": "Each gm contains: Menthol BP - 100 mg, Methyl Salicylate BP - 200 mg, Ointment base - q.s.",
+      "size": "15gm, 20gm, 30gm",
+      "category": "Anti-inflammatory"
+    },
+    {
+      "id": "ocg04",
+      "name": "Clotrimazole & Gentamicin Solution",
+      "comp": "Clotrimazole USP - 1.0% w/v, Gentamicin Sulfate USP, Equivalent to Gentamicin - 0.1% w/v, Excipients - q.s.",
+      "size": "30ml",
+      "category": "Antibacterial"
+    },
+    {
+      "id": "ocg05",
+      "name": "Clotrimazole Lotion USP",
+      "comp": "Clotrimazole USP - 1.0% w/v, Non-aqueous base - q.s.",
+      "size": "30ml",
+      "category": "Antibacterial"
+    },
+    {
+      "id": "ocg06",
+      "name": "Clotrimazole Topical Solution USP",
+      "comp": "Clotrimazole USP - 1% w/v",
+      "size": "30ml",
+      "category": "Antibacterial"
+    },
+    {
+      "id": "ocg07",
+      "name": "Clotrimazole Cream BP",
+      "comp": "Each gm contains: Clotrimazole BP - 1% w/w, In a Water Miscible Base - q.s",
+      "size": "20gm, 30gm",
+      "category": "Antibacterial"
+    },
+    {
+      "id": "ocg08",
+      "name": "Miconazole Nitrate Cream USP 2%",
+      "comp": "Miconazole Nitrate USP - 2% w/w, Chlorocresol BP - 0.1% w/w, Cream Base - q.s.",
+      "size": "20gm",
+      "category": "Antifungal"
+    },
+    {
+      "id": "ocg09",
+      "name": "Clotrimazole Ointment USP",
+      "comp": "Clotrimazole BP - 1% w/w, In Water Miscible Base - q.s.",
+      "size": "20gm, 30gm",
+      "category": "Antibacterial"
+    },
+    {
+      "id": "ocg10",
+      "name": "Silver Sulfadiazine Cream USP",
+      "comp": "Each gm contains: Silver Sulfadiazine USP - 1% w/w, In Cream Base - q.s.",
+      "size": "30gm, 60gm",
+      "category": "Antibacterial"
+    },
+    {
+      "id": "ocg11",
+      "name": "Diclofenac Gel BP",
+      "comp": "Each gm of gel contains: Diclofenac Diethylamine BP - 11.6 mg, (Equivalent to Diclofenac Sodium - 10 mg), In water soluble gel base with Propylene Glycol BP - q.s.",
+      "size": "15gm, 20gm, 30gm",
+      "category": "Analgesic, Anti-inflammatory"
+    },
+    {
+      "id": "ocg12",
+      "name": "Pain Relief Gel",
+      "comp": "Linseed Oil BP - 3.00% w/w, Diclofenac Diethylamine BP - 1.16% w/w, (Equivalent to Diclofenac Sodium 1.00% w/w), Methyl Salicylate BP - 10.00% w/w, Menthol BP - 5.00% w/w, Benzyl Alcohol BP - 1.00% w/w, (Preservative), Gel Base - q.s.",
+      "size": "30gm",
+      "category": "Anti-inflammatory"
+    },
+    {
+      "id": "ocg13",
+      "name": "Povidone Iodine Ointment USP",
+      "comp": "Each gm contains: Povidone Iodine USP - 5% w/w, (Available iodine - 0.5% w/w), Water Soluble Ointment Base - q.s.",
+      "size": "15gm, 30gm",
+      "category": "Disinfectant"
+    },
+    {
+      "id": "ocg14",
+      "name": "Diclofenac Gel BP",
+      "comp": "Each gm of gel contains: Diclofenac Diethylamine BP - 11.6 mg, Eqvt. to Diclofenac Sodium - 10 mg, In water soluble Gel Base with Propylene Glycol BP - q.s.",
+      "size": "15gm, 30gm",
+      "category": "Analgesic, Anti-inflammatory"
+    },
+    {
+      "id": "ocg15",
+      "name": "Povidone Iodine Ointment BP",
+      "comp": "Povidone Iodine BP - 10 % w/v, Eqvt. to 1% w/v available iodine",
+      "size": "15gm, 30gm",
+      "category": "Disinfectant"
+    },
+    {
+      "id": "ocg16",
+      "name": "Anti – haemorrhoids Ointment",
+      "comp": "Each gram contains: Betamethasone Valerate BP, Equivalent to Betamethasone BP - 0.5 mg, Phenylephrine Hydrochloride BP - 1.0 mg, Lidocaine Hydrochloride BP - 25 mg",
+      "size": "15gm, 30gm",
+      "category": "Anti–haemorrhoids"
+    },
+    {
+      "id": "ocg17",
+      "name": "Benzoic & Salicylic Acid Ointment BP",
+      "comp": "Each gm Contains: Benzoic Acid BP - 6% w/w, Salicylic Acid BP - 3% w/w, Ointment Base - q.s.",
+      "size": "15gm, 20gm, 30gm",
+      "category": "Antibacterial & Antifungal"
+    },
+    {
+      "id": "ocg18",
+      "name": "Antiseptic Solution",
+      "comp": "Chlorhexidine Gluconate Solution BP - 1.5 % v/v, Strong Cetrimide Solution BP, Eqvt. to Cetrimide BP - 3.0% w/v",
+      "size": "100ml",
+      "category": "Antiseptic"
+    },
+    {
+      "id": "ocg19",
+      "name": "Calamine Lotion",
+      "comp": "Calamine BP - 8.0% w/v, Excipients - q.s.",
+      "size": "100ml",
+      "category": "Antipruritic"
+    },
+    {
+      "id": "ocg20",
+      "name": "Calamine Lotion",
+      "comp": "Calamine BP - 15.0% w/v, Excipients - q.s.",
+      "size": "100ml",
+      "category": "Antipruritic"
+    },
+    {
+      "id": "ocg21",
+      "name": "Hydrogen Peroxide BP Solution",
+      "comp": "Hydrogen Peroxide BP - 3% w/v",
+      "size": "100ml",
+      "category": "Antiseptic"
+    },
+    {
+      "id": "ocg22",
+      "name": "Ketoconazole Cream BP",
+      "comp": "Each gm contains: Ketoconazole BP - 2% w/w, In Cream Base - q.s.",
+      "size": "15gm, 20gm, 30gm",
+      "category": "Antifungal"
+    },
+    {
+      "id": "ocg23",
+      "name": "Sodium Hypochlorite solution",
+      "comp": "Sodium Hypochlorite solution, Eqvt. to available chlorine - 3.0% w/v",
+      "size": "100ml",
+      "category": "Disinfectant"
+    },
+    {
+      "id": "ocg24",
+      "name": "Betamethasone Dipropionate Cream USP",
+      "comp": "Each 100 gm cream contains: Betamethasone Dipropionate USP - 64 mg, Equivalent to Betamethasone USP - 50 mg",
+      "size": "15gm, 20gm, 30gm",
+      "category": "Glucocorticoid"
+    },
+    {
+      "id": "ocg25",
+      "name": "Betamethasone Dipropionate Ointment USP",
+      "comp": "Each 100 gm ointment contains: Betamethasone Dipropionate USP - 64 mg, Equivalent to Betamethasone USP - 50 mg",
+      "size": "15gm, 20gm, 30gm",
+      "category": "Glucocorticoid"
+    },
+    {
+      "id": "ocg26",
+      "name": "Betamethasone & Salicylic Acid Ointment",
+      "comp": "Each 100 gm ointment contains: Betamethasone Dipropionate BP - 64 mg, Equivalent to Betamethasone BP - 50 mg, Salicylic Acid BP - 3000 mg, Ointment base - q.s.",
+      "size": "15gm, 20gm, 30gm",
+      "category": "Glucocorticoid"
+    },
+    {
+      "id": "ocg27",
+      "name": "Clobetasole Propionate Cream USP 0.05%w/w",
+      "comp": "Each 30 gm cream contains: Clobetasol Propionate USP - 15 mg",
+      "size": "30gm",
+      "category": "Glucocorticoid"
+    },
+    {
+      "id": "ocg28",
+      "name": "Clobetasole Propionate Ointment USP 0.05%w/w",
+      "comp": "Each 30 gm ointment contains: Clobetasol Propionate USP - 15 mg",
+      "size": "30gm",
+      "category": "Glucocorticoid"
+    },
+    {
+      "id": "ocg29",
+      "name": "Betamethasone & Salicylic Acid Ointment",
+      "comp": "Each gm Contains: Betamethasone Dipropionate BP - 0.064% w/w (eq. to Betamethasone 0.05%), Salicylic Acid BP - 3.0% w/w, Ointment base - q.s.",
+      "size": "15gm, 20gm, 30gm",
+      "category": "Glucocorticoid"
+    },
+    {
+      "id": "ocg30",
+      "name": "Nystatin Ointment BP 100000 IU/gm",
+      "comp": "Each gm contains: Nystatin BP - 100000 IU, Ointment Base - q.s.",
+      "size": "15gm, 20gm, 30gm",
+      "category": "Antifungal"
+    }
+  ]
+}
