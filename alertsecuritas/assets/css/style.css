@@ -1225,7 +1225,7 @@ ul {
 }
 
 .value-area {
-  background-image: url('../img/section-img/value/value-bg.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/section-img/value/value-bg.png');
   background-repeat: no-repeat;
   background-size: cover;
   padding: 95px 0 120px 0;
@@ -1278,7 +1278,7 @@ ul {
 }
 
 .value-area.value-two {
-  background-image: url('../img/section-img/team/team-bg-2.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/section-img/team/team-bg-2.png');
   padding-top: 83px;
 }
 
@@ -1376,14 +1376,14 @@ ul {
 }
 
 .security-center {
-  background-image: url('../img/section-img/security/security-bg-2.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/section-img/security/security-bg-2.png');
   background-repeat: no-repeat;
   background-size: cover;
   padding: 170px 20px 0 20px;
 }
 
 .security-right {
-  background-image: url('../img/section-img/security/security-bg-3.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/section-img/security/security-bg-3.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-color: var(--main-color-one);
@@ -2044,7 +2044,7 @@ ul {
   height: 52px;
 }
 .testimonial-two-items .testimonial-two-left {
-  background-image: url('../img/section-img/testimonial/testimonal-01.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/section-img/testimonial/testimonal-01.png');
   background-repeat: no-repeat;
   -webkit-box-flex: 1;
   -ms-flex: 1;
@@ -2124,7 +2124,7 @@ ul {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  background-image: url('../img/section-img/quote/quote-01.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/section-img/quote/quote-01.png');
   padding: 90px;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -2441,7 +2441,7 @@ span.style-animate-dot.dot-zero {
   position: absolute;
   right: -30px;
   top: 3px;
-  background-image: url('../../assets/img/2.svg');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/2.svg');
   height: 24px;
   width: 24px;
   background-size: cover !important;
@@ -2451,7 +2451,7 @@ span.style-animate-dot.dot-zero {
   position: absolute;
   right: -30px;
   top: 3px;
-  background-image: url('../../assets/img/1.svg');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/1.svg');
   height: 24px;
   width: 24px;
   background-size: cover !important;
@@ -3885,7 +3885,7 @@ blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-sty
 }
 
 .contact-info {
-  background-image: url('../img/section-img/map/map-bg.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/section-img/map/map-bg.png');
   background-repeat: no-repeat;
   background-size: cover;
   padding: 120px 0 90px 0;
@@ -3951,7 +3951,7 @@ blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-sty
   appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;
-  background-image: url('../../assets/img/arrow.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/arrow.png');
   background-repeat: no-repeat;
   background-position-y: 50%;
   background-position-x: 97%;
@@ -4029,7 +4029,7 @@ blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-sty
 }
 
 .contact-map {
-  background-image: url('../img/section-img/map/map-bg.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/section-img/map/map-bg.png');
   background-repeat: no-repeat;
   height: 100%;
   width: 100%;
@@ -4425,7 +4425,7 @@ blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-sty
   position: absolute;
   left: 0;
   top: 0;
-  background-image: url('../img/section-img/shapes/hovershape.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/section-img/shapes/hovershape.png');
   width: 100%;
   height: 100%;
   content: '';
@@ -7746,7 +7746,7 @@ blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-sty
 }
 
 .video-bg {
-  background-image: url('../img/section-img/video/video-bg-gallary.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/section-img/video/video-bg-gallary.png');
   background-repeat: no-repeat;
   background-size: cover;
   padding: 230px 0;
@@ -7772,7 +7772,7 @@ li.mail-footer a {
 }
 
 .features-area {
-  background-image: url('../img/section-img/quote/quote.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/section-img/quote/quote.png');
   background-size: cover;
   background-repeat: no-repeat;
   padding: 120px 0;
@@ -8678,7 +8678,7 @@ li.mail-footer a {
 }
 
 .case-area {
-  background-image: url('../img/section-img/case/case-bg.jpg');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/section-img/case/case-bg.jpg');
   padding: 120px 0 30px 0;
 }
 .case-area .case-icon i {
@@ -9038,7 +9038,7 @@ li.mail-footer a {
   background-repeat: no-repeat;
   left: 28%;
   top: -130px;
-  background-image: url('../img/section-img/hero/hero-bg.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/section-img/hero/hero-bg.png');
 }
 .hero-two-area .hero-item-wrapper {
   margin-right: -15px;
@@ -9275,7 +9275,7 @@ li.mail-footer a {
 }
 
 .testimonial-area {
-  background-image: url('../img/section-img/testimonial/bg-test.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/section-img/testimonial/bg-test.png');
   background-repeat: no-repeat;
   height: 100%;
   width: 100%;
@@ -9383,7 +9383,7 @@ li.mail-footer a {
 
 .history-wrapper {
   background: var(--main-color-one);
-  background-image: url('../img/section-img/history/hone.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/section-img/history/hone.png');
   -webkit-box-shadow: -20px 6px 35px 0px rgba(186, 17, 17, 0.39);
   box-shadow: -20px 6px 35px 0px rgba(186, 17, 17, 0.39);
   border-radius: 6px 6px 6px 6px;
@@ -9403,7 +9403,7 @@ li.mail-footer a {
 .history-wrapper::before {
   position: absolute;
   left: -60px;
-  background-image: url('../img/section-img/history/htwo.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/section-img/history/htwo.png');
   top: 0;
   content: '';
   height: 100%;
@@ -9436,14 +9436,14 @@ li.mail-footer a {
 }
 
 .team-area {
-  background-image: url('../img/section-img/team/team.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/section-img/team/team.png');
   padding: 100px 0 100px 0;
   position: relative;
   margin-bottom: 90px;
 }
 
 .team-area.team-area-two {
-  background-image: url('../img/section-img/team/team-bg-2.png') !important;
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/section-img/team/team-bg-2.png') !important;
   padding: 100px 0 150px 0;
   position: relative;
 }
@@ -9494,7 +9494,7 @@ li.mail-footer a {
 }
 
 .team-area.team-area-two {
-  background-image: url('../img/section-img/team/team.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/section-img/team/team.png');
 }
 
 .test-arrow-prev.test-next-02 {
@@ -9637,7 +9637,7 @@ img.bullet.bullet-01 {
 }
 
 .video-area {
-  background-image: url('../img/section-img/video/video-bg.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/section-img/video/video-bg.png');
   padding: 120px 0;
   background-repeat: no-repeat;
   width: 100%;
@@ -9649,7 +9649,7 @@ img.bullet.bullet-01 {
 }
 
 .video-wrapper {
-  background-image: url('../img/section-img/video/white.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/section-img/video/white.png');
   background-repeat: no-repeat;
   background-size: cover;
   -webkit-transition:
@@ -9945,7 +9945,7 @@ p.why-para {
 }
 
 .get-quote {
-  background-image: url('../img/section-img/quote/quote.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/section-img/quote/quote.png');
   padding: 0 0 113px;
   background-repeat: no-repeat;
 }
@@ -10122,7 +10122,7 @@ p.why-para {
 }
 
 .baner-slider {
-  background-image: url('../img/shapes/hero-shape.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/shapes/hero-shape.png');
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -10381,7 +10381,7 @@ button:focus {
 }
 
 .breadcrumb-area {
-  background-image: url('../img/section-img/breadcrumb/breadcrumb-bg.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/section-img/breadcrumb/breadcrumb-bg.png');
   background-size: cover;
   background-repeat: no-repeat;
   padding: 110px 0;
@@ -11057,7 +11057,7 @@ label[for='wp-comment-cookies-consent'] {
   bottom: 0;
   height: 16px;
   width: 16px;
-  background-image: url('../img/logo/dotted.svg');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/logo/dotted.svg');
   z-index: -1;
   background-repeat: no-repeat;
   background-size: contain;
@@ -12679,7 +12679,7 @@ label[for='wp-comment-cookies-consent'] {
   position: absolute;
   left: 0;
   bottom: 0;
-  background-image: url('../img/shapes/dotted-shape.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/shapes/dotted-shape.png');
   height: 6px;
   width: 100%;
   content: '';
@@ -13784,7 +13784,7 @@ nav.navbar.navbar-area.navbar-expand-lg.navigation-style-01.menu-02 {
 }
 
 .footer-area {
-  background-image: url('../img/section-img/footer/footer-bg.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/bhupendpatil/CDN@master/alertsecuritas/assets/img/section-img/footer/footer-bg.png');
   background-size: cover;
   width: 100%;
   height: 100%;
